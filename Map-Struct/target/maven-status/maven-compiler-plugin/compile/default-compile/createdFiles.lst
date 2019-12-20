@@ -1,0 +1,16 @@
+com\java\mapstruct\dto\VehicalLocationDto.class
+com\java\mapstruct\service\VehicalLocationService.class
+com\java\mapstruct\mapper\VehicalMapperImpl.class
+com\java\mapstruct\dto\VehicalDTO.class
+com\java\mapstruct\mapper\LocationMapper.class
+com\java\mapstruct\mapper\VehicalLocationMapper.class
+com\java\mapstruct\repository\VehicalsRepository.class
+com\java\mapstruct\entity\Vehicals.class
+com\java\mapstruct\controller\VehicalLocationController.class
+com\java\mapstruct\mapper\LocationMapperImpl.class
+com\java\mapstruct\mapper\VehicalMapper.class
+com\java\mapstruct\entity\Locations.class
+com\java\mapstruct\mapper\VehicalLocationMapperImpl.class
+com\java\mapstruct\repository\LocationsRepository.class
+com\java\mapstruct\dto\LocationVehicalDto.class
+com\java\mapstruct\MapStructApplication.class
